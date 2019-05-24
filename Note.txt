@@ -1,0 +1,8 @@
+Jika emulator tidak mau refresh setelah ada perubahan kode
+
+// Perubahan pada javascript / react & Menambah package (redux, react-redux )
+// Close app, close server, running ulang
+
+// Perubahan kodenya pada file java (android) & Menambah package (rn-vector image + rn-navigation)
+// Close app, server close, running ulang, jika tidak bisa, lanjut cara berikutnya
+// Uninstall app yg sedang di build, kemudian running ulang.
